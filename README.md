@@ -1,6 +1,9 @@
-# Hi there, I'm Sosina! 👋
 
-Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skills.
+✈✨✨✨✨✨✨🌝✨✨✨✨✨✨✨🌝✨✨✨✨✨✨✨🌝✨✨✨✨✨✨✨✨✨✈
+
+# Hi there 🙋‍♀️, I'm Sosina! 👋
+
+🥰 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skills.
 
 ## 🚀 About Me
 
@@ -13,12 +16,14 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 Here are some of the technologies I work with:
 
-- Programming Languages: Python, JavaScript, Java, C++
-- Web Development: HTML, CSS, Django
-- Databases: MySQL
-- Tools: Git
+💥 Programming Languages: Python, JavaScript, Java, C++
+💥 Web Development: HTML, CSS, Django 
+💥 Databases: MySQL
+💥 Tools: Git
 
 ## 📈 GitHub Stats
+
+🙈
 
 ![Sosina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosina14&show_icons=true&theme=radical)
 
@@ -30,3 +35,5 @@ Here are some of the technologies I work with:
 Feel free to explore my repositories and projects. Contributions, feedback, and suggestions are always welcome!
 
 Thanks for visiting my profile!
+
+👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
