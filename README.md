@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 Here are some of the technologies I work with:
 
 - Programming Languages: Python, JavaScript, Java, C++
-- Web Development: HTML, CSS, React, Node.js
+- Web Development: HTML, CSS, Django
 - Databases: MySQL
 - Tools: Git
 
