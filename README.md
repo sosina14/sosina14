@@ -17,7 +17,8 @@
 Here are some of the technologies I work with:
 
 💥 Programming Languages: Python, JavaScript, Java, C++
-💥 Web Development: HTML, CSS, Django 
+💥 Web Development: HTML, CSS
+💥 Framework : Django
 💥 Databases: MySQL
 💥 Tools: Git
 
