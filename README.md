@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Sosina! 👋
 
-<!--
-**sosina14/sosina14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skills.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning new programming languages and improving my skills in software development.
+- 👯 I’m looking to collaborate on open-source projects and innovative software solutions.
+- 💬 Ask me about anything related to programming, I’m happy to help!
+- 📫 How to reach me: [sosiayu14@gmail.com]
+
+## 🛠️ Languages and Tools
+
+Here are some of the technologies I work with:
+
+- Programming Languages: Python, JavaScript, Java, C++
+- Web Development: HTML, CSS, React, Node.js
+- Databases: MySQL
+- Tools: Git
+
+## 📈 GitHub Stats
+
+![Sosina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosina14&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+- LinkedIn: [https://www.linkedin.com/in/sosina-ayele-797927264/]
+
+
+Feel free to explore my repositories and projects. Contributions, feedback, and suggestions are always welcome!
+
+Thanks for visiting my profile!
