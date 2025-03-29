@@ -1,9 +1,13 @@
 
 ✈  ✨✨✨
+
+✨✨✨🌝✨✨✨
+          
           ✨✨✨🌝✨✨✨
-                         ✨✨✨🌝✨✨✨
-                                         ✨✨✨🌝✨✨✨
-                                                          ✨✨✨🌝✨✨✨   ✈
+                    
+                    ✨✨✨🌝✨✨✨
+                                                          
+                              ✨✨✨🌝✨✨✨   ✈
 
 # Hi there 🙋‍♀️, I'm Sosina! 👋
 
@@ -11,9 +15,8 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning new programming languages and improving my skills in software development.
+- 🌱 I’m currently a Software Engineering student at Addis Ababa Science and Technology University
 - 👯 I’m looking to collaborate on open-source projects and innovative software solutions.
-- 💬 Ask me about anything related to programming, I’m happy to help!
 - 📫 How to reach me: [sosiayu14@gmail.com]
 
 ## 🛠️ Languages and Tools
