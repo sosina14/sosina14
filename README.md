@@ -33,6 +33,6 @@ Here are some of the technologies I work with:
 
 Feel free to explore my repositories and projects. Contributions, feedback, and suggestions are always welcome!
 
-Thanks for visiting my profile!
+Thanks for visiting my profile!✨
 
 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
