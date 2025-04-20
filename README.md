@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently a Software Engineering student at Addis Ababa Science and Technology University
+- 🌱 I’m currently a Software Engineering student at Addis Ababa Science and Technology University[2nd year]
 - 👯 I’m looking to collaborate on open-source projects and innovative software solutions.
 - 📫 How to reach me: [sosiayu14@gmail.com]
 
@@ -14,17 +14,17 @@
 
 Here are some of the technologies I work with:
 
-💥 Programming Languages: Python, JavaScript, Java, C++
+💥 Programming Languages: Python, JavaScript, Java, C++, php
 💥 Web Development: HTML, CSS
 💥 Framework : Django
 💥 Databases: MySQL
-💥 Tools: Git
+💥 Tools: Git, github
 
 ## 📈 GitHub Stats
 
 🙈
 
-![Sosina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosina14&show_icons=true&theme=radical)
+[Sosina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosina14&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
