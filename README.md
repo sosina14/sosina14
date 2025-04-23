@@ -2,7 +2,7 @@
 
 # Hi there 🙋‍♀️, I'm Sosina! 👋
 
-🥰 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skills.
+🥰 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skls.
 
 ## 🚀 About Me
 
