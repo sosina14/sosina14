@@ -2,15 +2,15 @@
 
 # Hi there 🙋‍♀️, I'm Sosina! 👋
 
-🥰 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skls.
+🥰 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skills.
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🌱 I’m currently a Software Engineering student at Addis Ababa Science and Technology University[2nd year]
 - 👯 I’m looking to collaborate on open-source projects and innovative software solutions.
 - 📫 How to reach me: [sosiayu14@gmail.com]
 
-## 🛠️ Languages and Tools
+# 🛠️ Languages and Tools
 
 Here are some of the technologies I work with:
 
