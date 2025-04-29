@@ -22,7 +22,7 @@ Here are some of the technologies I work with:
 
 ## 📈 GitHub Stats
 
-🙈
+🙈🙈
 
 [Sosina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosina14&show_icons=true&theme=radical)
 
