@@ -72,6 +72,9 @@ Welcome to my GitHub profile! I'm passionate about **software development** and 
 
 [![Sosina's LeetCode Stats](https://leetcard.jacoblin.cool/sosinaa?theme=dark&font=Karma&ext=activity)](https://leetcode.com/u/sosinaa/)
 
+[![Sosina's LeetCode Stats](https://leetcard.jacoblin.cool/sosinaa?theme=dark&font=Karma&ext=activity)](https://leetcode.com/u/sosinaa/)
+
+
 ---
 
 ## 🌐 Connect with Me
