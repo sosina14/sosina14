@@ -64,6 +64,13 @@ Welcome to my GitHub profile! I'm passionate about **software development** and 
 ![Sosina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosina14&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosina14&layout=compact&theme=radical)
 
+
+## 📈 GitHub Stats
+
+![Sosina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sosina14&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sosina14&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🔎 LeetCode Stats
