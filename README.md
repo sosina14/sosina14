@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm **Sosina Ayele** 🙋‍♀️  
 Welcome to my GitHub profile! I'm passionate about **software development** and constantly striving to grow and innovate in the tech world.
 I drive to create impactful, real-world solutions. 
-I’m building my skills through hands-on projects, coding challenges, and collaboration, as I work toward becoming a well-rounded developer.
+I’m building my skills through hands-on projects, coding challenges, and collaboration, as I work toward becoming a well-rounded developer.🌝
 
 ---
 
