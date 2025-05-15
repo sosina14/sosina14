@@ -1,6 +1,4 @@
  ✨✨✨🌝✨✨✨  ✨✨✨🌝✨✨✨  ✨✨✨🌝✨✨✨   ✨✨✨🌝✨✨✨   
-
-
 # 👋 Hi there, I'm **Sosina Ayele** 🙋‍♀️  
 
 Welcome to my GitHub profile! I'm passionate about **software development** and constantly striving to grow and innovate in the tech world.
@@ -23,15 +21,6 @@ I’m building my skills through hands-on projects, coding challenges, and colla
 
 ## 🔎 LeetCode Stats
 [![Sosina's LeetCode Stats](https://leetcard.jacoblin.cool/sosinaa?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/sosinaa/)
-
-![Codeforces Rating](https://cf.leed.at?id=sosina14)
-
-[![Codeforces Rating](https://cf.leed.at?id=sosina14)](https://codeforces.com/profile/sosina14)
-
-[![Sosina's LeetCode Stats](https://leetcard.jacoblin.cool/sosinaa?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/sosinaa/)
-
-[![Codeforces Rating](https://cf.leed.at?id=sosina14)](https://codeforces.com/profile/sosina14)
-
 
 ## 🌐 Connect with Me
 
