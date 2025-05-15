@@ -22,8 +22,16 @@ I’m building my skills through hands-on projects, coding challenges, and colla
 ![Sosina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sosina14&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sosina14&layout=compact&theme=tokyonight)
 
 ## 🔎 LeetCode Stats
-[![Sosina's LeetCode Stats](https://leetcard.jacoblin.cool/sosinaa?theme=dark&font=Karma&ext=activity)](https://leetcode.com/u/sosinaa/)
 [![Sosina's LeetCode Stats](https://leetcard.jacoblin.cool/sosinaa?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/sosinaa/)
+
+![Codeforces Rating](https://cf.leed.at?id=sosina14)
+
+[![Codeforces Rating](https://cf.leed.at?id=sosina14)](https://codeforces.com/profile/sosina14)
+
+[![Sosina's LeetCode Stats](https://leetcard.jacoblin.cool/sosinaa?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/sosinaa/)
+
+[![Codeforces Rating](https://cf.leed.at?id=sosina14)](https://codeforces.com/profile/sosina14)
+
 
 ## 🌐 Connect with Me
 
