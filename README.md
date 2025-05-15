@@ -8,7 +8,6 @@ I’m building my skills through hands-on projects, coding challenges, and colla
 - 🤝 Looking to collaborate on **open-source** projects and impactful **software solutions**
 - 📬 Reach me via **Email**: [sosiayu14@gmail.com](mailto:sosiayu14@gmail.com)
 - 🌱 Currently exploring: Advanced **web development** and backend engineering
----
 ## 🛠️ Technologies & Tools
 ### 👩‍💻 Programming Languages    ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)    ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=flat)    ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat) ` 
 ### 🌐 Web Development    ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
@@ -21,13 +20,14 @@ I’m building my skills through hands-on projects, coding challenges, and colla
 ## 🔎 LeetCode Stats
 [![Sosina's LeetCode Stats](https://leetcard.jacoblin.cool/sosinaa?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/sosinaa/)
 
+---
+> _"Keep pushing your limits, the world needs your ideas."_ 🌍💡  
 ## 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sosina-ayele-797927264/)
 - 🐱‍🏍 [GitHub](https://github.com/sosina14)
 - 🧠 [LeetCode](https://leetcode.com/u/sosinaa/)
 ---
-> _"Keep pushing your limits, the world needs your ideas."_ 🌍💡  
 Thanks for visiting my profile! Feel free to explore, contribute, or reach out. 💬
 
 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
