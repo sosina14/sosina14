@@ -20,6 +20,8 @@ I’m building my skills through hands-on projects, coding challenges, and colla
 ## 🔎 LeetCode Stats
 [![Sosina's LeetCode Stats](https://leetcard.jacoblin.cool/sosinaa?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/sosinaa/)
 
+[![Sosina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sosina14&show_icons=true&theme=dark)](https://github.com/sosina14)
+
 ---
 > _"Keep pushing your limits, the world needs your ideas."_ 🌍💡  
 ## 🌐 Connect with Me
