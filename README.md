@@ -1,11 +1,5 @@
  ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 
- ![Profile Views](https://komarev.com/ghpvc/?username=sosina14&color=blue)
-
-## Country Rank
-
-![Committers Top Rank](https://img.shields.io/badge/committers.top%20rank-#4-brightgreen)
-
-#   🙋‍♀️   Hi there, I'm **Sosina Ayele** 
+    🙋‍♀️   Hi there, I'm **Sosina Ayele** 
 Welcome to my GitHub profile! I'm passionate about **software development** and constantly striving to grow and innovate in the tech world.
 I drive to create impactful, real-world solutions. 
 I’m building my skills through hands-on projects, coding challenges, and collaboration, as I work toward becoming a well-rounded developer.🌝
@@ -26,8 +20,9 @@ I’m building my skills through hands-on projects, coding challenges, and colla
 ## 🔎 LeetCode Stats
 [![Sosina's LeetCode Stats](https://leetcard.jacoblin.cool/sosinaa?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/sosinaa/)
 
-https://committers.top/ethiopia
-
+![Profile Views](https://komarev.com/ghpvc/?username=sosina14&color=blue)
+## Country Rank
+![Committers Top Rank](https://img.shields.io/badge/committers.top%20rank-#4-brightgreen)
 ---
 > _"Keep pushing your limits, the world needs your ideas."_ 🌍💡  
 ## 🌐 Connect with Me
