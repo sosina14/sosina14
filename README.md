@@ -2,10 +2,9 @@
  
  ## 🙋‍♀️   Hi there, I'm **Sosina Ayele** 
  
-Welcome to my GitHub profile! I'm passionate about **software development** and constantly striving to grow and innovate in the tech world.
-I’m building my skills through hands-on projects, coding challenges, and collaboration, as I work toward becoming a well-rounded developer.🌝
+Welcome to my GitHub profile! I'm passionate about **software development** and constantly striving to grow and innovate in the tech world.🌝
 ## 🚀 About Me
-- 🎓 Software Engineering student at **Addis Ababa Science and Technology University** (2nd Year)
+- 🎓 Software Engineering student at **Addis Ababa Science and Technology University** [2nd Yr]
 - 🤝 Looking to collaborate on **open-source** projects and impactful **software solutions**
 - 📬 Reach me via **Email**: [sosiayu14@gmail.com](mailto:sosiayu14@gmail.com)
 - 🌱 Currently exploring: Advanced **web development** and backend engineering
