@@ -17,18 +17,10 @@ Welcome to my GitHub profile! I'm passionate about **software development** and 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sosina14&theme=tokyonight&hide_border=false)
 ## 🔎 LeetCode Stats
 [![Sosina's LeetCode Stats](https://leetcard.jacoblin.cool/sosinaa?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/sosinaa/)
-## Country Rank
-![Committers Top Rank](https://img.shields.io/badge/committers.top%20rank-#4-brightgreen)
-[![committers.top badge](https://user-badge.committers.top/ethiopia/sosina14.svg)](https://committers.top/ethiopia/sosina14)
-## World Rank
-[![committers.top badge](https://user-badge.committers.top/global/sosina14.svg)](https://committers.top/global/sosina14)
-
 ---
 > _"Keep pushing your limits, the world needs your ideas."_ 🌍💡  
-## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/sosina-ayele-797927264/)
+## 🌐 Connect with Me  💼 [LinkedIn](https://www.linkedin.com/in/sosina-ayele-797927264/)
 ---
 Thanks for visiting my profile!
-
-![**Profile Views**](https://komarev.com/ghpvc/?username=sosina14&color=blue)
+![**Profile Views**]   (https://komarev.com/ghpvc/?username=sosina14&color=blue)
 
