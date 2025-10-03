@@ -1,10 +1,8 @@
- ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 
- 
- ## 🙋‍♀️   Hi there, I'm **Sosina Ayele** 
+  ## 🙋‍♀️   Hi there, I'm **Sosina Ayele** 
  
 Welcome to my GitHub profile! I'm passionate about **software development** and constantly striving to grow and innovate in the tech world.🌝
 ##  🚀 About Me
-- 🎓 Software Engineering student at **Addis Ababa Science and Technology University** [2nd Yr]
+- 🎓 Software Engineering student at **Addis Ababa Science and Technology University** 
 - 🤝 Looking to collaborate on **open-source** projects and impactful **software solutions**
 - 📬 Reach me via **Email**: [sosiayu14@gmail.com](mailto:sosiayu14@gmail.com)
 - 🌱 Currently exploring: Advanced **web development** and backend engineering
@@ -23,6 +21,10 @@ Welcome to my GitHub profile! I'm passionate about **software development** and 
 ![Profile Views](https://komarev.com/ghpvc/?username=sosina14&color=blue)
 ## Country Rank
 ![Committers Top Rank](https://img.shields.io/badge/committers.top%20rank-#4-brightgreen)
+[![committers.top badge](https://user-badge.committers.top/ethiopia/sosina14.svg)](https://committers.top/ethiopia/sosina14)
+## World Rank
+[![committers.top badge](https://user-badge.committers.top/global/sosina14.svg)](https://committers.top/global/sosina14)
+
 ---
 > _"Keep pushing your limits, the world needs your ideas."_ 🌍💡  
 ## 🌐 Connect with Me
