@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm passionate about **software development** and 
 
 ## 🔎 LeetCode Stats
 [![Sosina's LeetCode Stats](https://leetcard.jacoblin.cool/sosinaa?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/sosinaa/)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=sosina14&color=blue)
 ## Country Rank
 ![Committers Top Rank](https://img.shields.io/badge/committers.top%20rank-#4-brightgreen)
