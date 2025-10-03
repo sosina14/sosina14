@@ -1,4 +1,4 @@
-  ## 🙋‍♀️   Hi there, I'm **Sosina Ayele** 
+## 🙋‍♀️   Hi there, I'm **Sosina Ayele** 
  
 Welcome to my GitHub profile! I'm passionate about **software development** and constantly striving to grow and innovate in the tech world.🌝
 ##  🚀 About Me
@@ -15,10 +15,8 @@ Welcome to my GitHub profile! I'm passionate about **software development** and 
 ## 📈 GitHub Stats  
 ![Sosina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sosina14&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sosina14&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=sosina14&theme=tokyonight&hide_border=false)
-
 ## 🔎 LeetCode Stats
 [![Sosina's LeetCode Stats](https://leetcard.jacoblin.cool/sosinaa?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/sosinaa/)
-![Profile Views](https://komarev.com/ghpvc/?username=sosina14&color=blue)
 ## Country Rank
 ![Committers Top Rank](https://img.shields.io/badge/committers.top%20rank-#4-brightgreen)
 [![committers.top badge](https://user-badge.committers.top/ethiopia/sosina14.svg)](https://committers.top/ethiopia/sosina14)
@@ -28,11 +26,9 @@ Welcome to my GitHub profile! I'm passionate about **software development** and 
 ---
 > _"Keep pushing your limits, the world needs your ideas."_ 🌍💡  
 ## 🌐 Connect with Me
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/sosina-ayele-797927264/)
-- 🐱‍🏍 [GitHub](https://github.com/sosina14)
-- 🧠 [LeetCode](https://leetcode.com/u/sosinaa/)
 ---
-Thanks for visiting my profile! Feel free to explore, contribute, or reach out. 💬
+Thanks for visiting my profile!
 
-👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
+![**Profile Views**](https://komarev.com/ghpvc/?username=sosina14&color=blue)
+
