@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm passionate about **software development** and 
 [![Sosina's LeetCode Stats](https://leetcard.jacoblin.cool/sosinaa?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/sosinaa/)
 ---
 > _"Keep pushing your limits, the world needs your ideas."_ 🌍💡  
-## 🌐 Connect with Me  💼 [LinkedIn](https://www.linkedin.com/in/sosina-ayele-797927264/)
+## 🌐 Connect with Me  💼  [LinkedIn](https://www.linkedin.com/in/sosina-ayele-797927264/)
 ---
 Thanks for visiting my profile!
-![**Profile Views**](https://komarev.com/ghpvc/?username=sosina14&color=blue)
+--![**Profile Views**](https://komarev.com/ghpvc/?username=sosina14&color=blue)
 
