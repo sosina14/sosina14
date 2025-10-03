@@ -16,6 +16,11 @@ Welcome to my GitHub profile! I'm passionate about **software development** and 
 ### 🧰 Tools    ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ## 📈 GitHub Stats  
 ![Sosina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sosina14&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sosina14&layout=compact&theme=tokyonight)
+## 📈 GitHub Stats  
+![Sosina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sosina14&show_icons=true&theme=tokyonight) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sosina14&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sosina14&theme=tokyonight&hide_border=false)
 
 ## 🔎 LeetCode Stats
 [![Sosina's LeetCode Stats](https://leetcard.jacoblin.cool/sosinaa?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/sosinaa/)
