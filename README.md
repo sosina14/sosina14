@@ -23,5 +23,6 @@ Welcome to my GitHub profile! I'm passionate about **software development** and 
 ## 🌐 Connect with Me  💼  [LinkedIn](https://www.linkedin.com/in/sosina-ayele-797927264/)
 ---
 Thanks for visiting my profile!
+
 --![**Profile Views**](https://komarev.com/ghpvc/?username=sosina14&color=blue)
 
