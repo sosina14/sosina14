@@ -1,6 +1,6 @@
 ## 🙋‍♀️   Hi there, I'm **Sosina Ayele** 
  
-Welcome to my GitHub profile! I'm passionate about **software development** and constantly striving to grow and innovate in the tech world.🌝
+Welcome to my GitHub profile! 🌍 I’m a passionate **software engineer driven** by the dream of contributing to Africa’s tech transformation. I love turning ideas into impactful projects that empower people and inspire change — one line of code at a time. 🚀
 
 ##  🚀 About Me
 - 🎓 Software Engineering student at **Addis Ababa Science and Technology University** 
