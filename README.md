@@ -19,6 +19,10 @@ I love turning ideas into impactful projects that empower people and inspire cha
 ![Sosina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sosina14&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sosina14&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sosina14&theme=rose_pine&background=EBB6C2&fire=FF6F9C&ring=FF9DB5&currStreakNum=FF6F9C)
+![GitHub Streak](https://streak-stats.demolab.com?user=sosina14&theme=calm_pink&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=sosina14&theme=pink&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=sosina14&theme=rose_pine_moon&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sosina14&theme=rose_pine&hide_border=true)](https://git.io/streak-stats)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sosina14&theme=tokyonight&hide_border=false)
 
