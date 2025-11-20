@@ -21,8 +21,7 @@ I love turning ideas into impactful projects that empower people and inspire cha
 [![GitHub Streak](https://streak-stats.demolab.com?user=sosina14&theme=rose_pine&hide_border=true)](https://git.io/streak-stats)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sosina14&theme=tokyonight&hide_border=false)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sosina14&theme=rose_pine)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sosina14&theme=rose_pine)(https://git.io/streak-stats)
 
 
 <!-- ## 🔎 LeetCode Stats -->
