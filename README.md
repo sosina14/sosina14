@@ -20,6 +20,7 @@ I love turning ideas into impactful projects that empower people and inspire cha
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sosina14&theme=rose_pine&background=EBB6C2&fire=FF6F9C&ring=FF9DB5&currStreakNum=FF6F9C)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=sosina14&theme=tokyonight&hide_border=false)
 
 <!-- ## 🔎 LeetCode Stats -->
 [![Sosina's LeetCode Stats](https://leetcard.jacoblin.cool/sosinaa?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/sosinaa/)
