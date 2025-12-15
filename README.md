@@ -5,7 +5,7 @@ I love turning ideas into impactful projects that empower people and inspire cha
 
 ##  🚀 About Me     
 
-- 🎓 Software Engineering student at **Addis Ababa Science and Technology University** 
+- 🎓 Software Engineering student at **Addis Ababa Science and Technology University**   
 - 🤝 Looking to collaborate on **open-source** projects and impactful **software solutions**
 - 📬 Reach me via **Email**: [sosiayu14@gmail.com](mailto:sosiayu14@gmail.com) 
 - 🌱 Currently exploring: Advanced **web development** and backend engineering 
