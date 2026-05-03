@@ -97,3 +97,28 @@ I'm a passionate **Software Engineering student** at **Addis Ababa Science and T
 ---
 
 ## 🧠 Core Competencies
+
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sosina-ayele-797927264/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sosiayu14@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sosina14)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Keep pushing your limits, the world needs your ideas."*
+
+**Thanks for visiting!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=sosina14&color=6A0DAD&style=flat-square&label=Profile+Views)
+
+</div>
