@@ -2,7 +2,7 @@
 
 # ✨ Sosina Ayele Nega ✨
 
-### *Software Engineer | Mobile App and Full-Stack Developer |*
+### *Software Engineer | Mobile App and Full-Stack Developer | competitive programme*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+impactful+software+solutions;Driving+Africa's+tech+transformation;Full-Stack+Developer;Let's+collaborate+%26+innovate!)](https://git.io/typing-svg)
 
