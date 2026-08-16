@@ -11,14 +11,17 @@
 ---
 
 ## 👩‍💻 About Me
+### About Me
 
-I'm a passionate **Software Engineering student** at **Addis Ababa Science and Technology University**, committed to contributing to Africa's technological renaissance.
+I'm a passionate **Software Engineering student** at **Addis Ababa Science and Technology University** and an aspiring developer. I enjoy building useful software, solving problems, and continuously learning new technologies.
 
-- 🎓 **Education:** Software Engineering, AASTU
-- 🌍 **Mission:** Accelerating Africa's tech transformation
-- 🤝 **Open to:** Collaborations on open-source & impactful projects
-- 📬 **Contact:** [sosiayu14@gmail.com](mailto:sosiayu14@gmail.com)
-- 📚 **Currently:** Mastering advanced web development & backend engineering
+
+* 🎓 **Education:** Software Engineering, AASTU
+* 💻 **Currently:** Building web & mobile applications and improving my development skills
+* 🤝 **Open to:** Collaborations on open-source & impactful projects
+* 📚 **Learning:** Full-stack development, cloud technologies & AI/ML
+* 📬 **Contact:** [sosiayu14@gmail.com](mailto:sosiayu14@gmail.com)
+
 
 ---
 
