@@ -93,12 +93,6 @@ I'm a passionate **Software Engineering student** at **Addis Ababa Science and T
 
 ---
 
-## 🎯 LeetCode
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sosinaa?theme=dark&font=Karma&ext=heatmap&bg=0D1117&border=0&animation=true&width=500)](https://leetcode.com/u/sosinaa/)
-
----
-
 ## 🧠 Core Competencies
 
 
