@@ -1,121 +1,153 @@
+<!-- Header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50%:0d9488,100%:6366f1&height=220&section=header&text=Sosina%20Ayele&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%C2%B7%20Full-Stack%20%C2%B7%20Mobile&descSize=20&descAlignY=60&animation=fadeIn" />
+
 <div align="center">
 
-# ✨ Sosina Ayele Nega ✨
+<!-- Typing animation -->
+<a href="https://github.com/sosina14">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&width=700&lines=Building+apps+that+matter+%F0%9F%9A%80;Flutter+%C2%B7+React+%C2%B7+Django+%C2%B7+Go;Hackathon+winner+%F0%9F%8F%86;Data+%26+AI+enthusiast+%F0%9F%A4%96;Based+in+Addis+Ababa%2C+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing SVG" />
+</a>
 
-### *Software Engineer | Mobile App and Full-Stack Developer | competitive programme*
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+impactful+software+solutions;Driving+Africa's+tech+transformation;Full-Stack+Developer;Let's+collaborate+%26+innovate!)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sosina-ayele-797927264/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sosiayu14@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](#)
+![Profile Views](https://komarev.com/ghpvc/?username=sosina14&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
 ## 👩‍💻 About Me
-### About Me
 
-I'm a passionate **Software Engineering student** at **Addis Ababa Science and Technology University** and an aspiring developer. I enjoy building useful software, solving problems, and continuously learning new technologies.
+```js
+const sosina = {
+  role: "Software Engineering Student @ AASTU (graduating 2027)",
+  location: "Addis Ababa, Ethiopia 🇪🇹",
+  currentlyWorkingOn: ["Derash (co-founder)", "ORDP frontend", "Data & AI projects"],
+  openTo: ["Backend", "Full-Stack", "Mobile Development"],
+  community: ["A2SV Gen 7", "GSSoC", "SheCodes Club"],
+  funFact: "I want AI to work better in Amharic 🇪🇹",
+};
+```
 
-
-* 🎓 **Education:** Software Engineering, AASTU
-* 💻 **Currently:** Building web & mobile applications and improving my development skills
-* 🤝 **Open to:** Collaborations on open-source & impactful projects
-* 📚 **Learning:** Full-stack development, cloud technologies & AI/ML
-* 📬 **Contact:** [sosiayu14@gmail.com](mailto:sosiayu14@gmail.com)
-
+- 🏆 **1st place**, SheCodes Club Hackathon 2026
+- 🥉 **3rd place**, GDG 2026 Hackathon (Derash)
+- 🧠 **A2SV Generation 7**: 500+ problems solved
+- 🎓 **Kifiya AI Mastery Training Program**: completed with Distinction
+- 💼 Software Engineering Intern (React & Django) @ COE-HPCBDA, AASTU
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+<div align="center">
 
-**Frontend:** 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+**Frontend & Mobile**
 
-**Backend:** 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,js,tailwind,flutter,dart" />
 
-**Mobile:** 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+**Backend & Databases**
 
-**Databases:** 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=django,python,nodejs,express,go,postgres,mysql,mongodb,redis" />
 
-**Tools:** 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+**Tools & Cloud**
 
-**Auth & Security:**
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-4A90E2?style=flat-square&logo=auth0&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,aws" />
 
-**Deployment:**
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚑 Derash</h3>
+      <p><b>🥉 3rd place, GDG 2026 Hackathon</b></p>
+      <p>Emergency referral and transport system with a mobile app and admin dashboard: medicine search, pharmacy locations, reminders, and notifications. I built the Flutter frontend and part of the Django backend.</p>
+      <p><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /></p>
+      <a href="https://github.com/AI-Emergency-Referral-Transport-System">GitHub Org</a> · <a href="https://github.com/HavenGoitom/Derash_Frontend">Frontend</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎟️ AASTU Event Platform</h3>
+      <p><b>🥇 1st place, SheCodes Club Hackathon 2026</b></p>
+      <p>Full-stack platform for student event discovery, registration, and real-time updates, with an organizer admin system. I built the responsive React frontend.</p>
+      <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 Car Rental Platform</h3>
+      <p><b>Addispay Internship</b></p>
+      <p>Full-stack car rental app with a Next.js frontend and a Go backend (Clean Architecture, Gin, GORM, PostgreSQL, JWT, Redis), with AddisPay payment integration.</p>
+      <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔬 ORDP</h3>
+      <p><b>Open Research Data Portal</b></p>
+      <p>University-wide platform for collecting and managing research data. I built the auth flow and profile UI, connected to the backend.</p>
+      <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /></p>
+      <a href="https://ordp-frontend.vercel.app/">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚌 SmartLink Transit</h3>
+      <p><b>UI/UX Design</b></p>
+      <p>Bilingual (Amharic/English) public transit app design for Addis Ababa, with passenger and driver flows.</p>
+      <p><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 Demera NGO Website</h3>
+      <p><b>Wix</b></p>
+      <p>Website built and optimized for Demera NGO.</p>
+      <a href="https://sosiayu14.wixsite.com/demera-1">Live Site</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤖 Data & AI Highlights
+
+| Project | What I built |
+|---|---|
+| 💳 **Credit Risk Modeling** | Bati Bank BNPL scoring with KMeans proxy targets, MLflow tracking, FastAPI and Docker |
+| 🕵️ **Fraud Detection** | SMOTE and XGBoost with SHAP explainability |
+| 📈 **Financial Inclusion Forecasting** | Time series and event-impact modeling for Ethiopia, with a Streamlit dashboard |
+| 💬 **RAG Complaint Chatbot** | CFPB complaints, FAISS retrieval, Gradio interface |
+| 🛢️ **Brent Oil Analysis** | PELT change point detection and Bayesian structural breaks |
+| 📊 **Portfolio Optimization** | ARIMA vs LSTM forecasting and the Efficient Frontier |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-| **Stats** | **Top Languages** |
-|:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sosina14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&hide_title=true&card_width=350) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sosina14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&card_width=350) |
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sosina14&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sosina14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0d9488&icon_color=6366f1" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosina14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0d9488" />
 
-</div>
+<img src="https://streak-stats.demolab.com?user=sosina14&theme=tokyonight&hide_border=true&background=0f172a&ring=0d9488&fire=6366f1&currStreakLabel=0d9488" />
 
----
-
-## 🧠 Core Competencies
-
-
----
-
-## 🤝 Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sosina-ayele-797927264/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sosiayu14@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sosina14)
+<img src="https://github-profile-trophy.vercel.app/?username=sosina14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 
 </div>
 
 ---
 
+## 📫 Let's Connect
+
+I'm open to backend, full-stack, and mobile opportunities, plus collaborations on open source and hackathons.
+
 <div align="center">
 
-### 💡 *"Keep pushing your limits, the world needs your ideas."*
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sosina-ayele-797927264/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sosiayu14@gmail.com)
 
-**Thanks for visiting!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=sosina14&color=6A0DAD&style=flat-square&label=Profile+Views)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50%:0d9488,100%:0f172a&height=120&section=footer" />
 
 </div>
